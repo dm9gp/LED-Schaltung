@@ -24,7 +24,7 @@ Außerdem, werden auch die unten aufgeführten Komponenten benötigt:
 	Taster: Momentary Tactile Button Switch, 4 Pin 6 x 6 mm 
 
 Es kann auch auf einer Steckplatine geübt werden. Das Bild "NB703 Breadbord.jpg" soll dazu helfen. 
-In dem Fall braucht man auch natürlich eine Steckplatine.
+In dem Fall braucht man auch natürlich eine Steckplatine. Der Schaltplan befindet sich unter "NB703 Schematic.jpg".
 
 Alle Angaben ohne Gewähr.
 Gegebenenfalls unter Aufsicht von Erwachsenen / Ausbilder zu benutzen.
