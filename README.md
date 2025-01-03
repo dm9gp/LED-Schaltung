@@ -1,6 +1,7 @@
 # LED Schaltung
 
-Hier befinden sie die Dateien zur Platine, "Printed circuit board" (PCB), aus dem YouTube Video "LED Schaltung".
+Hier befinden sie die Dateien zur Platine, "Printed circuit board" (PCB), von dem YouTube Video "LED Schaltung" aus dem Kanal "www.youtube.com/@dm9gp".
+
 
 Die Datei im „Fritzing“-Format (.fzz) 
 kann in der Anwendung „Fritzing“ (https://fritzing.org/) geöffnet, geprüft und zur Not modifiziert werden, und dann
