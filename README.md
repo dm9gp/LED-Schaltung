@@ -1,20 +1,16 @@
-# LED_Schaltung
+# LED Schaltung
 
-Technische Kenntnisse der Klasse N
+Hier befinden sie die Dateien zur Platine, "Printed circuit board" (PCB), aus dem YouTube Video "LED Schaltung".
 
-NB703 - Bei welchem der abgebildeten Stromkreise leuchtet die LED? (1)
-
-Zu finden sind hier Dateien, mit dem eine Platine, Printed circuit board (PCB), zum Zweck, durch selbst löten, der Übung, hergestellt werden kann.
-
-Die PCB-Datei im „Fritzing“-Format .fzz 
-kann in der Anwendung „Fritzing“ (https://fritzing.org/) geöffnet, zunächst geprüft und zur Not modifiziert werden, und dann
-von einem "PCB" Hersteller, wie zum Beispiel AISLER (https://aisler.net), gefertigt werden. 
+Die Datei im „Fritzing“-Format (.fzz) 
+kann in der Anwendung „Fritzing“ (https://fritzing.org/) geöffnet, geprüft und zur Not modifiziert werden, und dann
+von einem "PCB" Hersteller, wie z.B. AISLER (https://aisler.net), gefertigt werden. 
 
 Die „.zip“ Datei enthält dasselbe, jedoch im Gerber-Format, wird von andere Hersteller bevorzugt.
 
 Unterschiedlicher Hersteller haben verschieden Preise und Lieferzeiten.
 
-Außerdem, werden auch die unten aufgeführten Komponenten benötigt:
+Außerdem, werden auch die unten aufgeführten Komponenten benötigt.
 
 	Batterie: 9V
 	Batteriehalter für 9V Batterien
@@ -23,14 +19,13 @@ Außerdem, werden auch die unten aufgeführten Komponenten benötigt:
 	LED: Rot
 	Taster: Momentary Tactile Button Switch, 4 Pin 6 x 6 mm 
 
-Es kann auch auf einer Steckplatine geübt werden. Das Bild "NB703 Breadbord.jpg" soll dazu helfen. 
-In dem Fall braucht man auch natürlich eine Steckplatine. Der Schaltplan befindet sich unter "NB703 Schematic.jpg".
+Es kann auch auf einer Steckplatine geübt werden. Das Bild "Breadbord.jpg" soll dazu helfen. 
+In dem Fall braucht man auch natürlich eine Steckplatine. 
+Der Schaltplan befindet sich unter "Schematic.jpg".
 
-Alle Angaben ohne Gewähr.
-Gegebenenfalls unter Aufsicht von Erwachsenen / Ausbilder zu benutzen.
-Keine Garantie oder Gewährleistung.
+Alle Angaben ohne Gewähr. Gegebenenfalls unter Aufsicht von Erwachsenen / Ausbilder zu benutzen.
+Das ist hier kein Verkauf, alles hier wird zur Verfügung unter Ausschluss jeglicher Gewährleistung gestellt.
 
-Die Dateien sind freigegeben unter Public Domain.
+Gemeinfreiheit (Public Domain, PD), nicht urheberrechtlich geschützt.
 
-(1) "AMATEURFUNK Prüfungsfragen zum Erwerb von Amateurprüfungsbescheinigung" von der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen. Dezember 2023, 2. Auflage.
 
